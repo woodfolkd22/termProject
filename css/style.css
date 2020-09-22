@@ -1,1 +1,19 @@
 /*CSS style for term project by Drew Woodfolk*/
+body{
+background-color: #fafffd;
+}
+h1{
+    color: #3C91E6;
+}
+p{
+    color: #9fd356;
+}
+a{
+    color: #fa824c;
+}
+#image1{
+border: 3px solid black;
+}
+#link1{
+border-left: 10px solid #fa824c;
+}
